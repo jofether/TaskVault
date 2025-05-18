@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603912285802",
+    "project_id": "mobcomp-c9415",
+    "storage_bucket": "mobcomp-c9415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603912285802:android:f8561a1139951ceae56413",
+        "android_client_info": {
+          "package_name": "com.jethers.formlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Q3Q466TDCBwJycykLuZ1vo99LtQTHnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603912285802:android:5cf7aaa90c4d9acae56413",
+        "android_client_info": {
+          "package_name": "com.jethers.reglogwdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Q3Q466TDCBwJycykLuZ1vo99LtQTHnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
